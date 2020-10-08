@@ -12,4 +12,9 @@ There are **three** folders and **two** files in our repository named "Stat628-M
 - *README.md*
 
 ## Directions of Using Code
+We compliled our program in **R Studio**.
+To run our program, you need to follow the steps described below
+- Installed packages "*CRAN*", "*kableExtra*", "*tidyverse*", "*reshape*", "*corrplot*", and "*leaps*" in your R Studio
+- And then, You need to set up the working directory to "data"
+- After you achieved the first two steps, you will be good to run our program :)
 
