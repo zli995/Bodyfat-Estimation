@@ -12,3 +12,4 @@ There are **three** folders and **two** files in our repository named "Stat628-M
 - *README.md*
 
 ## Directions of Using Code
+
