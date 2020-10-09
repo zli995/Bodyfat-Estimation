@@ -15,6 +15,6 @@ There are **three** folders and **two** files in our repository named "Stat628-M
 We compliled our program in **R Studio**.
 To run our program, you need to follow the steps described below
 - Installed packages "*CRAN*", "*kableExtra*", "*tidyverse*", "*reshape*", "*corrplot*", and "*leaps*" in your R Studio
-- And then, You need to set up the working directory to "data"
+- And then, You need to set up the working directory to "data"(one of the folders under the main directory)
 - After you achieved the first two steps, you will be good to run our program :)
 
