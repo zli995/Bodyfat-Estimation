@@ -1,6 +1,6 @@
 
 
-# The Model Estimating The Percentage of Body Fat
+# Bodyfat Estimation
 The purpose of this project is to use several clinically available measurements to precisely estimate the percentage of body fat. Our analysis are based on a real data set of **252** men with measurements of their percentage of body fat and various body circumference measurements. 
 
 ## Contents of The Repository
@@ -17,4 +17,9 @@ To run our program, you need to follow the steps described below
 - Installed packages "*CRAN*", "*kableExtra*", "*tidyverse*", "*reshape*", "*corrplot*", and "*leaps*" in your R Studio
 - And then, You need to set up the working directory to "data"(one of the folders under the main directory)
 - After you achieved the first two steps, you will be good to run our program :)
+
+## Contributors
+-Runshi Tang
+-Zixiang Xu
+-Zeyu Li
 
