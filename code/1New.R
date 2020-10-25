@@ -100,7 +100,7 @@ p
 data = data[-c(155, 211),]
 
 
-#Following is written by
+#Following is written by Zixiang Xu
 #Variable selection----------------------------------
 #Ineraction detection
 data = data[,-2]
@@ -128,7 +128,7 @@ plot(myleaps, scale = "bic")
 model1 = lm(BODYFAT~WEIGHT +ABDOMEN + THIGH +FOREARM +WRIST, data = data)
 summary(model1)
 
-#Following is written by 
+#Following is written by Zeyu Li 
 #remove insignificant term 
 model1 = lm(BODYFAT~WEIGHT +ABDOMEN +FOREARM +WRIST, data = data)
 summary(model1)
