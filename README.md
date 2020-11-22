@@ -1,4 +1,4 @@
-
+![alt text](https://github.com/zli995/Bodyfat-Estimation/Bodyfat.jpeg?raw=true)
 # Bodyfat Estimation
 The purpose of this project is to use several clinically available measurements to precisely estimate the percentage of body fat. Our analysis are based on a real data set of **252** men with measurements of their percentage of body fat and various body circumference measurements. 
 
