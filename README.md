@@ -11,6 +11,9 @@ There are **three** folders and **two** files in our repository named "Stat628-M
 - *Summary.pdf*: This is a two page summary of our procedure of developing this model. The contents include our overall findings, the evidence supporting our findings, and important details of our statistical analysis. 
 - *README.md*
 
+## Shiny App Link
+https://lofia.shinyapps.io/628_hw2/
+
 ## Directions of Using Code
 We compliled our program in **R Studio**.
 To run our program, you need to follow the steps described below
